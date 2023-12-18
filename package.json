@@ -61,7 +61,7 @@
     "@nuxt/module-builder": "0.5.4",
     "@nuxt/schema": "3.8.2",
     "@nuxt/test-utils": "3.9.0-alpha.1",
-    "@sanity/client": "6.4.12",
+    "@sanity/client": "6.10.0",
     "@vitest/coverage-v8": "0.34.6",
     "@vue/test-utils": "2.4.3",
     "bumpp": "9.2.0",
